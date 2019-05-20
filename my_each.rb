@@ -4,5 +4,5 @@ def my_each(array)
   yield
   puts i
   i += 1
-  learn
+  end
 end
